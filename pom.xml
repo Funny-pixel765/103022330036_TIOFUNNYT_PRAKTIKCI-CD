@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.funnypixel</groupId>
-    <artifactId>103022330036_TIOFUNNYT_PRAKTIKCI-CD</artifactId>
-    <version>1.0.0</version>
+    <artifactId>praktikci-cd</artifactId>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
-    <name>103022330036_TIOFUNNYT_PRAKTIKCI-CD</name>
+    <name>praktikci-cd</name>
 
     <properties>
         <maven.compiler.source>22</maven.compiler.source>
