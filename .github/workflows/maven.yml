@@ -29,4 +29,4 @@ jobs:
       env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-      run: mvn -B verify sonar:sonar -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=funny-pixel765 -Dsonar.projectKey=funny-pixel765_103022330036_TIOFUNNYT_PRAKTIKCI-CD -Dsonar.qualitygate.wait=true
+      run: mvn -B verify sonar:sonar -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=funny-pixel765 -Dsonar.projectKey=Funny-pixel765_103022330036_TIOFUNNYT_PRAKTIKCI-CD -Dsonar.qualitygate.wait=true
